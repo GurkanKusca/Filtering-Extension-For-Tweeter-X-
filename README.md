@@ -1,2 +1,2 @@
-For using with your own computer execute the tetsTorch.py i a compiler then open chrome extensions in developer mod then add this whole folder. After this procces only thing user has to do is add filters to extenison of ours
+For using with your own computer execute the tetsTorch.py in a compiler then open chrome extensions in developer mod then add this whole folder. After this procces only thing user has to do is add filters to extenison of ours
 But in another project I will add other versions of this project because of Google manifest permissions this project doesn't work well but if one day I am going to take permission for enterprise I will use this code as well
